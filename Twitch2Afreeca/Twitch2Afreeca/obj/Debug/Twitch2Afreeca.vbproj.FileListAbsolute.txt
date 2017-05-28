@@ -26,3 +26,4 @@ C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\
 C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.frmSetting.resources
 C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.Resources.resources
 C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.vbproj.GenerateResource.Cache
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.frmInfo.resources

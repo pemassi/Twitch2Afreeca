@@ -10,10 +10,9 @@ Public Class frmMain
 
     Private Sub frmMain_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
-
-
         If GetSetting(Setting.PROGRAM_NAME, Setting.SETTING, Setting.REFRESH_SECOND) = "" Then
 
+            '// 초기 설정이 없는 경우, 기본 설정 저장.
             SaveSetting(Setting.PROGRAM_NAME, Setting.SETTING, Setting.REFRESH_SECOND, 10)
             SaveSetting(Setting.PROGRAM_NAME, Setting.SETTING, Setting.AUTO_PRESUFFIX, 0)
 
@@ -31,6 +30,9 @@ Public Class frmMain
         End If
 
         Check_FreecShot()
+
+        txt_Afreeca.Enabled = False
+        txt_Twitch.Enabled = False
 
     End Sub
 
@@ -103,6 +105,7 @@ Public Class frmMain
             WinHttp.Send()
             WinHttp.WaitForResponse(10)
 
+            '// !! 트위치 방송 제목에 HTML 문법에 영향('/' 같은 것)을 주는 문자가 있는 경우 해결.
             Title = Split(Split(Split(WinHttp.ResponseText, "property='og:description'>")(0), "property='og:url'>")(1), "<meta content=")(1).Replace("""", "").Replace("'", "")
             'Title = Split(Split(Split(WinHttp.ResponseText, "' property='og:description'>")(0), " property='og:url'>")(1), "<meta content='")(1)
 
