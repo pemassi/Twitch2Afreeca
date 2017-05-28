@@ -1,0 +1,28 @@
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.exe.config
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.exe
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.pdb
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.xml
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.vbprojResolveAssemblyReference.cache
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Interop.WinHttp.dll
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.vbproj.ResolveComReference.cache
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.frmMain.resources
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.frmSetting.resources
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.Resources.resources
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.vbproj.GenerateResource.Cache
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.exe
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.xml
+C:\Users\프매씨\AppData\Local\Temporary Projects\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.pdb
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.exe.config
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Interop.WinHttp.dll
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.vbproj.ResolveComReference.cache
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.exe
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.xml
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.pdb
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.exe
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.pdb
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\bin\Debug\Twitch2Afreeca.xml
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.vbprojResolveAssemblyReference.cache
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.frmMain.resources
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.frmSetting.resources
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.Resources.resources
+C:\Users\프매씨\iCloudDrive\Programming\VB.NET\Twitch2Afreeca\Twitch2Afreeca\obj\Debug\Twitch2Afreeca.vbproj.GenerateResource.Cache
